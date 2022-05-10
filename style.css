@@ -7,3 +7,15 @@ td, th {
     border: 1px solid black;
     padding: 5px 10px;
 }
+
+.coffee {
+	list-style: none;
+}
+
+.name {
+	font-size: 32px;
+}
+
+.roast {
+	color: red;
+}
